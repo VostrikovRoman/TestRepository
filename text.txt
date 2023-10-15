@@ -1,0 +1,6 @@
+Все кто не знают...
+
+Lorem Ipsum - это текст-"рыба", часто используемый в печати и вэб-дизайне. Lorem Ipsum является стандартной "рыбой" для текстов на латинице с начала XVI века.
+
+
+ПРИМЕР: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla rutrum a ante a condimentum. Vivamus sed nulla vel mauris sodales aliquam. Morbi vel orci vitae diam ornare vehicula. Curabitur vel augue eget nunc tempus euismod. Donec tempor elit varius, egestas turpis rutrum, consequat metus. Quisque neque velit, congue eget ante et, auctor aliquam dui. Morbi nec lectus commodo, sagittis orci rhoncus, semper lacus. Integer facilisis ornare dui, sed lobortis ex tempus nec. Cras sodales semper rhoncus. Praesent et semper turpis, et blandit augue."
